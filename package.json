@@ -1,0 +1,19 @@
+{
+  "name": "js-play-sound",
+  "version": "1.0.0",
+  "description": "原生js播放声音",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veshen/js-play-sound.git"
+  },
+  "author": "mrwang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veshen/js-play-sound/issues"
+  },
+  "homepage": "https://github.com/veshen/js-play-sound#readme"
+}
