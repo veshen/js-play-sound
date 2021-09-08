@@ -18,7 +18,7 @@ export const playSound = ({url,delay}) =>{
         iEmbed.setAttribute('loop',false);
         iAudio.appendChild(iSource);
         iAudio.appendChild(iEmbed);
-        document.querySelector('.container').appendChild(iAudio);
+        document.querySelector('body').appendChild(iAudio);
         const iAudio1 = document.querySelector(".iAudio_");
         if (delay) {
             setTimeout(()=>{
